@@ -1,6 +1,6 @@
 // ==============================================
 // chatbot_sesion1.cpp
-// Sesion 1 – Chatbot OfiExpress
+// Sesion 1 – Chatot OfiExpress
 // Funcionalidad: saludo y registro del cliente
 // ==============================================
 
